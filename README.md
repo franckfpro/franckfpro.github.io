@@ -17,5 +17,6 @@
 - [exercism](https://exercism.org/tracks/python/exercises)
 - [PEP-8](https://peps.python.org/pep-0008/)
 - [python-standard-library](https://www.w3schools.com/python/python_ref_modules.asp)
+- [python-reference](https://www.w3schools.com/python/python_reference.asp)
 
 - []()
