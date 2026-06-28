@@ -13,8 +13,9 @@
 
 ---
 
-- [recettes](/recettes)
+- [recettes](/recettes.md)
 - [programme_python_data](/programme_python_data.md)
+- [projets_python_dsa](/projets_python_dsa.md)
 
 ---
 
