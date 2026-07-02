@@ -1,0 +1,10 @@
+- cahier des charges
+- raci
+- planification, jalons de revue courts
+- gestion des risques + DICP
+- Stand up factuels
+- suivi des performances + KPI
+- gestions des incidents
+- amelioration continue (retropectives)
+- documentation
+- alignement commun
