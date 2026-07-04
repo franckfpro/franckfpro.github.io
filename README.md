@@ -25,6 +25,12 @@
 - [PEP-8](https://peps.python.org/pep-0008/)
 - [python-standard-library](https://www.w3schools.com/python/python_ref_modules.asp)
 - [python-reference](https://www.w3schools.com/python/python_reference.asp)
+- [awesome-python](https://awesome-python.com/)
+
+---
+
+- [opendata-university](https://visio.octoconf.com/playback/presentation/2.3/31be716d2a9116d4c411261e6c42312b04f65591-1731410369326)
+- [metiers data](https://visio.octoconf.com/playback/presentation/2.3/31be716d2a9116d4c411261e6c42312b04f65591-1713252660791)
 
 ---
 
