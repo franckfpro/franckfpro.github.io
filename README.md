@@ -13,12 +13,6 @@
 
 ---
 
-- [recettes](/recettes.md)
-- [programme_python_data](/programme_python_data.md)
-- [projets_python_dsa](/projets_python_dsa.md)
-
----
-
 - [w3schools](https://www.w3schools.com/python/default.asp)
 - [kaggle](https://www.kaggle.com/learn)
 - [exercism](https://exercism.org/tracks/python/exercises)
@@ -33,4 +27,3 @@
 
 ---
 
-- []()
