@@ -1,2 +1,5 @@
 title: franckfpro.github.io
 description: liens et références
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
