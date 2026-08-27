@@ -1,0 +1,4 @@
+- Personnages
+- Objets
+- Lieux
+- Objectifs
