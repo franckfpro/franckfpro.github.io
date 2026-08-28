@@ -8,3 +8,9 @@
 - [roll20](https://roll20.net/)
 - [minimalroleplay](https://minimalroleplay.com/)
 
+---
+
+- [Chrysalis](https://www.shaan-world.com/)
+- [Ptolus](https://ptol.us/)
+- [Absalom](https://pathfinderwiki.com/wiki/Absalom)
+
