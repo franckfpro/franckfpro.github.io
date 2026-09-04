@@ -1,7 +1,7 @@
 # [franckfpro.github.io](https://franckfpro.github.io)
 
 - [github](https://github.com/franckfpro?tab=repositories)
-- [gitlab-startpage](https://franckf.gitlab.io/startpage/)
+- [gitlab-startpage](/gitlab-pages)
 - [gitlab](https://gitlab.com/users/franckf/projects)
 
 ---
@@ -27,3 +27,4 @@
 
 ---
 
+- [jdr-ressources](/jdr-ressources/)
